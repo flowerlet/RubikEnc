@@ -31,8 +31,10 @@ Press 'V' to color the rubik cube
 ```
 // initialize rubik with 108 bits string
 void Encode(std::string seq);
+
 // rotate rucik with the specified rotation sequence
 void Rotate(std::string seq);
+
 // decode rubik to 108 bits string
 std::string Decode();
 
