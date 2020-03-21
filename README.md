@@ -23,9 +23,9 @@ To show how the encryption scheme works with 3D implementation and provides six 
     - **Decode**:
         - remap arrows to binary codes.
 
-Press 'C' could hide/show the 3D rotate buttons
+Press 'C' to hide/show the 3D rotate buttons
 
-Press 'V' could color the rubik cube
+Press 'V' to color the rubik cube
 
 ## Cpp Project
 ```
