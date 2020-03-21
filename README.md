@@ -23,6 +23,10 @@ To show how the encryption scheme works with 3D implementation and provides six 
     - **Decode**:
         - remap arrows to binary codes.
 
+Left-click the rotate button to rotate clockwise
+
+Right-click the rotate button to rotate counterclockwise
+
 Press 'C' to hide/show the 3D rotate buttons
 
 Press 'V' to color the rubik cube
